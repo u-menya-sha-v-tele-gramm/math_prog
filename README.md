@@ -15,5 +15,5 @@ ______
 - Дешифрование зашифрованных сообщений.
 
 
-https://github.com/user-attachments/assets/515f2254-9f3d-46a8-8fbd-2c4eaec3b0bc
+
 
